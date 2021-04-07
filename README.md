@@ -62,4 +62,4 @@ and activities of a travel and the purpose is to design a system using which one
 ## Team Members
 ### [Gaurav Singh](https://github.com/gauravsingh9356)
 ### [Nitish Singh](https://github.com/nitishsingh321) 
-<h4 style="text-align: center;">If liked feel free to star it! </h4>(:star_struck:)
+#### If liked feel free to star it!:star_struck:
