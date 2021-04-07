@@ -1,6 +1,7 @@
-![Screenshot (299)](https://user-images.githubusercontent.com/55052983/113833446-49e4dc00-97a7-11eb-9d80-dd7c9287e6b9.png)
-![Screenshot (319)](https://user-images.githubusercontent.com/55052983/113833465-52d5ad80-97a7-11eb-9fb6-103a3c06de34.png)
+
 # GN Tours Services
+
+![Screenshot (319)](https://user-images.githubusercontent.com/55052983/113833465-52d5ad80-97a7-11eb-9fb6-103a3c06de34.png)
 
 ## Our Idea
 
@@ -55,4 +56,4 @@ and activities of a travel and the purpose is to design a system using which one
 ![i2](https://user-images.githubusercontent.com/55052983/113833138-eb1f6280-97a6-11eb-9840-f02564bd1450.jpeg)
 ![i3](https://user-images.githubusercontent.com/55052983/113833142-ebb7f900-97a6-11eb-8eea-2322f9b5f5bd.jpeg)
 ![i4](https://user-images.githubusercontent.com/55052983/113833148-ece92600-97a6-11eb-9b25-6b9d0e69a834.jpeg)
-
+![Screenshot (299)](https://user-images.githubusercontent.com/55052983/113833446-49e4dc00-97a7-11eb-9d80-dd7c9287e6b9.png)
