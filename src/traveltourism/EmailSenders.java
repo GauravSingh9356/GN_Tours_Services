@@ -70,19 +70,7 @@ public class EmailSenders {
      */
 
     public static void main(String[] args) {
-        // try{
-        // Email email = new Email("gs935688@gmail.com", "spectrum12345#####");
-        // email.setFrom("gs935688@gmail.com", "GN Tours and Services");
-        // email.setSubject("This email is for testing");
-        // email.setContent("<h1>This is content</h1>", "text/html");
-        // email.addRecipient("gs885693@gmail.com");
-        // email.send();
-        // }
-        // catch(Exception e)
-        // {
-        // System.out.println(e.getMessage());
-        // }
-
+        
         EmailSenders emailsender = new EmailSenders();
         emailsender.setupProperties("gs885693@gmail.com", 12345);
     }
