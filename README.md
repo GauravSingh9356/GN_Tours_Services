@@ -49,3 +49,8 @@ and activities of a travel and the purpose is to design a system using which one
 <li>review for reviewing our services</li>
 
 ## Some Glimpses of our App UI
+![i1](https://user-images.githubusercontent.com/55052983/113833106-e3f85480-97a6-11eb-8e54-0f74d4f5afc9.jpeg)
+![i2](https://user-images.githubusercontent.com/55052983/113833138-eb1f6280-97a6-11eb-9840-f02564bd1450.jpeg)
+![i3](https://user-images.githubusercontent.com/55052983/113833142-ebb7f900-97a6-11eb-8eea-2322f9b5f5bd.jpeg)
+![i4](https://user-images.githubusercontent.com/55052983/113833148-ece92600-97a6-11eb-9b25-6b9d0e69a834.jpeg)
+
