@@ -1,4 +1,4 @@
-# GN_Tours_Services
+# GN Tours Services
 
 ## Our Idea
 
@@ -35,7 +35,7 @@ and activities of a travel and the purpose is to design a system using which one
 <li>JavaMail for sending email OTP</li>
 <li>Stripe API Payment Gateway </li>
 
-## Databse Records
+## Database Records
 
 ### Database == Travel
 
