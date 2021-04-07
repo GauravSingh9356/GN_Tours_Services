@@ -59,5 +59,5 @@ and activities of a travel and the purpose is to design a system using which one
 ![Screenshot (299)](https://user-images.githubusercontent.com/55052983/113833446-49e4dc00-97a7-11eb-9d80-dd7c9287e6b9.png)
 
 ## Team Memebers
-[Gaurav Singh!]
-[Nitish Singh!] 
+[Gaurav Singh!](https://github.com/gauravsingh9356)
+[Nitish Singh!](https://github.com/nitishsingh321) 
