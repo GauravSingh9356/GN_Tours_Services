@@ -24,8 +24,8 @@ public class EmailSenders {
             properties.put("mail.smtp.host", "smtp.gmail.com");
             properties.put("mail.smtp.starttls.enable", "true"); // port 547 requires tls to enabled
 
-            String myAccountEmail = "gs935688@gmail.com";
-            String password = "spectrum12345#####";
+            String myAccountEmail = "youremail";
+            String password = "yourpassword";
             Random ran = new Random();
 
             Session session = Session.getInstance(properties, new Authenticator() {
