@@ -1,6 +1,7 @@
 
 # GN Tours And Services
-![Screenshot (293)](https://user-images.githubusercontent.com/55052983/113833863-c5df2400-97a7-11eb-84f0-9cdcf6d6b22f.png)
+![Screenshot (294)](https://user-images.githubusercontent.com/55052983/113834567-98df4100-97a8-11eb-8d74-e8f303cd3093.png)
+
 
 
 ## Our Idea
@@ -58,6 +59,6 @@ and activities of a travel and the purpose is to design a system using which one
 ![i4](https://user-images.githubusercontent.com/55052983/113833148-ece92600-97a6-11eb-9b25-6b9d0e69a834.jpeg)
 ![Screenshot (299)](https://user-images.githubusercontent.com/55052983/113833446-49e4dc00-97a7-11eb-9d80-dd7c9287e6b9.png)
 
-## Team Memebers
+## Team Members
 ### [Gaurav Singh](https://github.com/gauravsingh9356)
 ### [Nitish Singh](https://github.com/nitishsingh321) 
