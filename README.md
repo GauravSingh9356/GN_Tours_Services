@@ -1,7 +1,7 @@
 
 # GN Tours Services
+![Screenshot (293)](https://user-images.githubusercontent.com/55052983/113833863-c5df2400-97a7-11eb-84f0-9cdcf6d6b22f.png)
 
-![Screenshot (319)](https://user-images.githubusercontent.com/55052983/113833465-52d5ad80-97a7-11eb-9fb6-103a3c06de34.png)
 
 ## Our Idea
 
