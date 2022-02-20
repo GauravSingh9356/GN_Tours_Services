@@ -1,6 +1,9 @@
 
 <h1 align="center">GN Tours And Services</h1>
 
+<h2 align="center"> 👉 <a href="https://www.youtube.com/watch?v=qe26kgANEXk"><b>Demo</b></a> </h2>
+
+
 ![Screenshot (294)](https://user-images.githubusercontent.com/55052983/113834567-98df4100-97a8-11eb-8d74-e8f303cd3093.png)
 
 
@@ -65,9 +68,7 @@ and activities of a travel and the purpose is to design a system using which one
 ![Screenshot (299)](https://user-images.githubusercontent.com/55052983/113833446-49e4dc00-97a7-11eb-9d80-dd7c9287e6b9.png)
 
 
-## YouTube Demo
 
-[![YouTube Demo](http://img.youtube.com/vi/qe26kgANEXk/0.jpg)](http://www.youtube.com/watch?v=qe26kgANEXk "JAVA SEMESTER PROJECT || TRAVEL AND TOURISM MANAGEMENT || Full Stack Project")
   
 
 
