@@ -1,5 +1,6 @@
 
-# GN Tours And Services
+<h1 align="center">GN Tours And Services</h1>
+
 ![Screenshot (294)](https://user-images.githubusercontent.com/55052983/113834567-98df4100-97a8-11eb-8d74-e8f303cd3093.png)
 
 
@@ -45,12 +46,16 @@ and activities of a travel and the purpose is to design a system using which one
 
 #### Tables:
 
-<li>account for auth</li>
-<li>customer for registration</li>
-<li>bookpackage for booking of package</li>
-<li>hotel for adding hotels in table and dynamically fetching them in UI</li>
-<li>bookhotel for booking hotels</li>
-<li>review for reviewing our services</li>
+<ul>
+  <li><b>Account (for Authentication)</b></li> 
+  <li><b>Customer (for Registration)</b></li>
+    <li><b>Hotel (for Adding hotels in table and dynamically fetching them in UI)</b></li>
+  <li><b>Book Package (for Booking of package)</b></li>
+  <li><b>Book Hotel (for Booking hotels)</b></li>
+  <li><b>Review (for Reviewing our services)</b></li>
+</ul>
+
+
 
 ## Some Glimpses of our App UI
 ![i1](https://user-images.githubusercontent.com/55052983/113833106-e3f85480-97a6-11eb-8e54-0f74d4f5afc9.jpeg)
@@ -58,6 +63,13 @@ and activities of a travel and the purpose is to design a system using which one
 ![i3](https://user-images.githubusercontent.com/55052983/113833142-ebb7f900-97a6-11eb-8eea-2322f9b5f5bd.jpeg)
 ![i4](https://user-images.githubusercontent.com/55052983/113833148-ece92600-97a6-11eb-9b25-6b9d0e69a834.jpeg)
 ![Screenshot (299)](https://user-images.githubusercontent.com/55052983/113833446-49e4dc00-97a7-11eb-9d80-dd7c9287e6b9.png)
+
+
+## YouTube Demo
+
+[![YouTube Demo](http://img.youtube.com/vi/qe26kgANEXk/0.jpg)](http://www.youtube.com/watch?v=qe26kgANEXk "JAVA SEMESTER PROJECT || TRAVEL AND TOURISM MANAGEMENT || Full Stack Project")
+  
+
 
 ## Team Members
 ### [Gaurav Singh](https://github.com/gauravsingh9356)
